@@ -1,3 +1,6 @@
 [submodule "ArcadeMania"]
 	path = ArcadeMania
 	url = https://github.com/Muskansri1/ArcadeMania.git
+[submodule "Assignment_9"]
+	path = Assignment_9
+	url = https://github.com/Muskansri1/Assignment_9.git
