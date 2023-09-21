@@ -10,3 +10,6 @@
 [submodule "Assignment_7_WebDesign"]
 	path = Assignment_7_WebDesign
 	url = https://github.com/Muskansri1/Assignment_7_WebDesign.git
+[submodule "Web_Design_Assignment_5"]
+	path = Web_Design_Assignment_5
+	url = https://github.com/Muskansri1/Web_Design_Assignment_5.git
